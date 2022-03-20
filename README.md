@@ -27,7 +27,7 @@ local library = {
 	notifications = {},
 	tabSize = 0,
 	theme = {},
-	foldername = "stizzardhook",
+	foldername = "BLIZZARD-DA-HOOD",
 	fileext = ".ch"
 }
 
